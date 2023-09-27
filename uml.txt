@@ -1,0 +1,13 @@
+class FC La Masia
+
+--------------------
+int players
+String player names
+String Stadium
+Boolean Best club in the world = true
+int goals
+int goal differencial 
+int market value of players
+int Champions leagues
+int Champions of La Liga
+------------------------------------
